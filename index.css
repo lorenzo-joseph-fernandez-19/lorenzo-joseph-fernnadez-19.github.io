@@ -43,4 +43,5 @@ div {
     border-radius: 3px;
     font-size: 12pt;
     font-family: 'Poppins', sans-serif; 
+    cursor: grab;
 }
