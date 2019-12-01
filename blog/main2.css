@@ -1,0 +1,70 @@
+body {
+    background-color: 	#008080;
+    text-align: left;
+    color: white;
+    font-family: 'Poppins', sans-serif; 
+}
+
+div {
+    padding: 100px;
+    margin:auto; 
+    background-image: url("mountains.jpg");
+    border: white 3px solid;
+
+}
+
+h1 {
+    font-size: 50pt;
+    padding: 50px;
+    margin: 0px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20pt;
+    padding-bottom: 10px;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 20pt;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    text-align: left;
+    
+}
+ 
+h4 {
+    padding-bottom: 100px;
+    margin: 0px;
+    text-align: center;
+}
+
+#layer {
+    display: table;
+    width: 50%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("mountains.jpg");
+    background-position: center top;
+    height: 500px;
+    color: white;
+  }
+
+
+      
+  }
+
+  p {
+      margin: 40px;
+      text-align: left;
+  }
+  
+  a {
+      color: white;
+      padding-top: 250px;
+  }
+
+  img {
+      padding-left: 0px;
+      padding-top: 50px;
+      margin-left: 10px;
+  }
