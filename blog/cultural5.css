@@ -8,7 +8,7 @@ body {
 div {
     padding: 100px;
     margin:auto; 
-    background-image: url("sunset.jpg");
+    background-image: url("japan.jpg");
     border: white 3px solid;
     text-align: left;
 }
@@ -42,7 +42,7 @@ h4 {
 #layer {
     display: table;
     width: 50%;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("rocks.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("japan.jpg");
     background-position: center top;
     height: 350px;
     color: white;
